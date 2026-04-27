@@ -6,7 +6,7 @@
 export const CLINIC_INFO = {
   name: "KR's Dental Care",
   tagline: "Smile with Confidence - Quality Dental Treatment in Jaipur",
-  doctor: "Dr. Kalu Ram",
+  doctor: "Dr. Kalu Ram Yadav",
   specialization: "Aesthetic Dental Surgeon & Oral Health Expert",
   phone: "+91 98292 99668",
   email: "kaluram1688@gmail.com",
