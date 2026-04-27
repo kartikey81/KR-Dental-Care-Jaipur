@@ -19,12 +19,14 @@ export default function About() {
             className="relative"
           >
             <div className="relative z-10 rounded-[64px] overflow-hidden shadow-2xl border-[12px] border-white aspect-[4/5] md:aspect-square">
-              <img 
-                src="kry.png" style="width:100%; height:300px; object-fit:cover;" alt="Clinic Image"
-                className="w-full h-full object-cover"
-                referrerPolicy="no-referrer"
-              />
-            </div>
+  <img 
+    src="kry.png" 
+    alt="Clinic Image"
+    // Fixed the style prop and kept it consistent with Tailwind
+    className="w-full h-full object-cover"
+    referrerPolicy="no-referrer"
+  />
+</div>
             
             <motion.div
               initial={{ x: 30, opacity: 0 }}
