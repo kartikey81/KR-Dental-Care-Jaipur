@@ -88,7 +88,7 @@ export default function Hero() {
             >
               <div className="flex items-center gap-5">
                 <div className="w-16 h-16 bg-natural-sage rounded-2xl overflow-hidden flex-shrink-0 border-4 border-natural-cream shadow-inner flex items-center justify-center">
-                   <img src="https://images.unsplash.com/photo-1622253692010-333f2da6031d?q=80&w=2070&auto=format&fit=crop" alt={CLINIC_INFO.doctor} className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+                   <img src="kry.png" style="width:100%; height:auto; aspect-ratio:2070/1380; object-fit:cover;" alt="Clinic Image" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
                 </div>
                 <div>
                   <h3 className="font-serif text-lg font-bold text-natural-ink">{CLINIC_INFO.doctor}</h3>
