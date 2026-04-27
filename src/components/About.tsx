@@ -20,8 +20,7 @@ export default function About() {
           >
             <div className="relative z-10 rounded-[64px] overflow-hidden shadow-2xl border-[12px] border-white aspect-[4/5] md:aspect-square">
               <img 
-                src="https://images.unsplash.com/photo-1622253692010-333f2da6031d?q=80&w=2070&auto=format&fit=crop" 
-                alt={CLINIC_INFO.doctor}
+                src="kry.png" style="width:100%; height:300px; object-fit:cover;" alt="Clinic Image"
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
               />
