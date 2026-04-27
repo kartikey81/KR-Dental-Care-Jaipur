@@ -52,7 +52,7 @@ export default function About() {
               {CLINIC_INFO.specialization}
             </p>
             <p className="text-natural-muted text-lg mb-10 leading-relaxed font-sans">
-              Dr. Kalu Ram is a dedicated dental professional in Jaipur with over 15 years of excellence in transforming smiles. 
+              Dr. Kalu Ram Yadav is a dedicated dental professional in Jaipur with over 15 years of excellence in transforming smiles. 
               His patient-centric approach combined with modern facilities makes KR's Dental Care a preferred choice for thousands.
             </p>
 
