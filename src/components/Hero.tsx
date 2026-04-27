@@ -72,11 +72,12 @@ export default function Hero() {
           >
             <div className="relative rounded-[48px] overflow-hidden shadow-2xl z-10 aspect-[4/5] border-[12px] border-white">
               <img 
-                src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?q=80&w=2070&auto=format&fit=crop" 
-                alt="Modern Dental treatment at KR Dental Clinic"
-                className="w-full h-full object-cover"
-                referrerPolicy="no-referrer"
-              />
+  src="KRY.png" 
+  style={{ width: '100%', height: 'auto', aspectRatio: '2070/1380', objectFit: 'cover' }} 
+  alt="Dr. Kalu Ram Yadav" 
+  className="w-full h-full object-cover" 
+  referrerPolicy="no-referrer" 
+/>
             </div>
             
             {/* Principal Dentist Card from reference */}
