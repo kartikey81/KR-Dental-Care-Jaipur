@@ -88,7 +88,7 @@ export default function Hero() {
             >
               <div className="flex items-center gap-5">
                 <div className="w-16 h-16 bg-natural-sage rounded-2xl overflow-hidden flex-shrink-0 border-4 border-natural-cream shadow-inner flex items-center justify-center">
-                    <img src="https://github.com/kartikey81/KR-Dental-Care-Jaipur/blob/main/input_file_0.png" alt={CLINIC_INFO.doctor} className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+                    <img src="https://github.com/kartikey81/KR-Dental-Care-Jaipur/blob/main/input_file_0.png?raw=true" alt={CLINIC_INFO.doctor} className="w-full h-full object-cover" referrerPolicy="no-referrer" />
                 </div>
                 <div>
                   <h3 className="font-serif text-lg font-bold text-natural-ink">{CLINIC_INFO.doctor}</h3>
