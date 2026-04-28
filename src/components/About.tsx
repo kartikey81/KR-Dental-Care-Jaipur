@@ -20,7 +20,7 @@ export default function About() {
           >
             <div className="relative z-10 rounded-[64px] overflow-hidden shadow-2xl border-[12px] border-white aspect-[4/5] md:aspect-square">
               <img 
-                src="https://github.com/kartikey81/KR-Dental-Care-Jaipur/blob/main/input_file_0.png" 
+                src="https://github.com/kartikey81/KR-Dental-Care-Jaipur/blob/main/input_file_0.png?raw=true" 
                 alt={CLINIC_INFO.doctor}
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
